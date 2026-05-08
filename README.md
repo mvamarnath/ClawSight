@@ -1,6 +1,6 @@
 # ClawSight: Autonomous On-Device Intelligence Agent
 
-ClawSight is a privacy-first, autonomous background agent for Android. It bridges the gap between raw device context and actionable intelligence by monitoring communication (WhatsApp, Telegram, Gmail) and visual data (Screenshots, Downloads) to automatically decipher and organize your digital life.
+ClawSight is a privacy-first, autonomous background agent for Android. It bridges the gap between raw device context and actionable intelligence by monitoring communication (WhatsApp, Telegram, Gmail) and visual data (Screenshots, Downloads) to automatically decipher and organize your digital life. [NOTE: AS APP FILE SIZE EXCEEDS GIT HUB LIMITS WE HAVE USED GOOGLE DRIVE PLS FIND THE LINKS BELOW]
 
 ---
 
