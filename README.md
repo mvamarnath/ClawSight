@@ -8,10 +8,10 @@ ClawSight is a privacy-first, autonomous background agent for Android. It bridge
 
 Due to repository size constraints and the necessity of high-fidelity assets for evaluation, the primary project files are hosted on Google Drive. **Please ensure you are logged into a Google account to access these links.**
 
-* **Complete Source Code (Android Project):** [INSERT DRIVE LINK HERE]
-* **Project Demo Video (Walkthrough):** [INSERT DRIVE LINK HERE]
-* **Compiled APK (ClawSight.apk):** [INSERT DRIVE LINK HERE]
-* **Gemma LLM Model (gemma2b-it-cpu-int4.bin):** [INSERT DRIVE LINK HERE]
+* **Complete Source Code (Android Project):** https://drive.google.com/drive/folders/1CaZnT8L_1Ib-RlzhY87IeRNGvMRMKtjx?usp=sharing
+* **Project Demo Video (Walkthrough):** https://drive.google.com/drive/folders/1pLybJX78Y2UwPIp5e303rPCHd2hY_qTU?usp=sharing
+* **Compiled APK (ClawSight.apk):** https://drive.google.com/drive/folders/1DdNiBG5Gh8K7rBmwxD83rhnsoJtblfVh?usp=sharing
+* **Gemma LLM Model (gemma2b-it-cpu-int4.bin):** https://drive.google.com/drive/folders/1VhECYRnNM0M8nbVuAqUi_SqFfA4XPxd-?usp=sharing
 
 ---
 
