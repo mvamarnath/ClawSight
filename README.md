@@ -80,3 +80,7 @@ Due to repository size constraints and the necessity of high-fidelity assets for
 
 * **Models:** Gemma 2B IT and Google ML Kit.
 * **Assistance:** Gemini (Android Studio) was utilized to optimize PII Redaction Regex, architect the background ClawSightService, and draft the Room Database schema.
+
+  ---
+
+  * **Since we were not able to upload files larger than 100MB to github, we have provided the drive links for each.
